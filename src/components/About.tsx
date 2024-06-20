@@ -26,7 +26,7 @@ function About() {
                     </div>
                 </div>
             </div>
-            <div className="p-5 text-zinc-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto unde reiciendis rem est possimus natus esse provident quo corporis officia non cumque, et neque quasi officiis cupiditate a placeat quisquam iste blanditiis animi, quae accusantium? Cum quibusdam porro natus reiciendis iusto corporis reprehenderit nesciunt laudantium earum, velit perferendis officiis beatae?</div>
+            <div className="p-5 text-zinc-700">I am a passionate web developer with a keen interest in creating intuitive user experiences. With expertise in React and Javascript/Typescript, I love solving complex problems and continuously learning new technologies. I have a remarkable expertise in backend applications. In my free time, I enjoy watching movies, reading, and writing.</div>
         </div>
     </div>
   </div>
