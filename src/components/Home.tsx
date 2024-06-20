@@ -1,6 +1,6 @@
 import Image1 from "../assets/DSC_0208 (2).jpg"
 function Home() {
-  return <div className="w-full h-max mt-12 sm:flex sm:justify-center">
+  return <div className="w-full h-max md:mt-20 mt-14 sm:flex sm:justify-center">
     <div className="w-full flex justify-center sm:flex-none sm:w-max sm:mx-10">
         <img src={Image1} alt="" className= "h-36 w-36 sm:h-52 sm:w-52 md:h-72 md:w-72 lg:h-96 lg:w-96 rounded-full"/>
     </div>
@@ -8,9 +8,9 @@ function Home() {
         <div className="text-zinc-600 tracking-wider font-semibold text-base flex justify-center mt-5 sm:mt-0 lg:text-2xl">Hello, I'm</div>
         <div className=" text-black tracking-wider font-semibold text-3xl flex justify-center my-2 lg:text-5xl lg:my-5 hover:scale-105 duration-100">Tejas Bayaskar</div>
         <div className="text-zinc-600 tracking-wider font-semibold text-lg flex justify-center mt-2 lg:text-3xl">Full-stack Developer</div>
-        <div className="w-full mt-5 lg:mt-11 flex justify-around h-11">
-            <button className="h-full w-32 mx-2 border-2 border-black rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Résumé</button>
-            <button className="h-full w-32 mx-2 border-2 border-transparent rounded-3xl duration-100 hover:bg-black bg-zinc-800 text-white">Contact</button>
+        <div className="w-full mt-5 lg:mt-11 flex justify-center h-11">
+            <button className="h-full w-32 mx-3 border-2 border-black rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Résumé</button>
+            <button className="h-full w-32 mx-3 border-2 border-transparent rounded-3xl duration-100 hover:bg-black bg-zinc-800 text-white">Contact</button>
         </div>
         <div className="flex justify-center sm:mt-7 mt-4 items-center">
             <a target="_blank" href="https://www.linkedin.com/in/tejas-bayaskar-a96806228/">
