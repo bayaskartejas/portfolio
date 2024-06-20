@@ -1,6 +1,6 @@
 import Image1 from "../assets/DSC_0208 (2).jpg"
 function Home() {
-  return <div className="w-full h-max md:mt-20 mt-14 sm:flex sm:justify-center">
+  return <div className="w-full h-max md:mt-20 sm:mt-14 mt-20 sm:flex sm:justify-center">
     <div className="w-full flex justify-center sm:flex-none sm:w-max sm:mx-10">
         <img src={Image1} alt="" className= "h-36 w-36 sm:h-52 sm:w-52 md:h-72 md:w-72 lg:h-96 lg:w-96 rounded-full"/>
     </div>

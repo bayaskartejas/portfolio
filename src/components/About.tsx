@@ -2,7 +2,7 @@ import Image2 from "../assets/IMG_20240620_100430.jpg"
 import Image3 from "../assets/image2.png"
 import Image4 from "../assets/image.png"
 function About() {
-  return <div id="About" className="border border-transparent my-16 md:mt-32 ">
+  return <div id="About" className="border border-transparent my-16 sm:mt-32 mt-52">
     <div className="text-zinc-600 text-base flex justify-center mt-5 sm:text-sm">Get to know more</div>
     <div className=" text-black tracking-wide font-semibold text-3xl flex justify-center my-2 sm:text-5xl sm:my-2">About Me</div>
     <div className="grid md:flex lg:justify-around xl:mt-10 xl:justify-center">
