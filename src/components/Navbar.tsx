@@ -10,7 +10,7 @@ function Navbar({clicked, setClicked} : MenuProps) {
             </div>
             <div className='z-0  h-full w-max lg:flex hidden cursor-pointer'>
                 <div className='md:text-xl lg:text-2xl text-lg lg:mx-6 md:mx-1 hover:underline decoration-slate-700 hover:underline-offset-8'><a href="#About">About</a></div>
-                <div className='md:text-xl lg:text-2xl text-lg lg:mx-6 md:mx-1 hover:underline decoration-slate-700 hover:underline-offset-8'>Experience</div>
+                <div className='md:text-xl lg:text-2xl text-lg lg:mx-6 md:mx-1 hover:underline decoration-slate-700 hover:underline-offset-8'><a href="#Experience">Experience</a></div>
                 <div className='md:text-xl lg:text-2xl text-lg lg:mx-6 md:mx-1 hover:underline decoration-slate-700 hover:underline-offset-8'>Projects</div>
                 <div className='md:text-xl lg:text-2xl text-lg lg:mx-6 md:mx-1 hover:underline decoration-slate-700 hover:underline-offset-8'>Contact</div>
             </div>

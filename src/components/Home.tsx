@@ -2,7 +2,7 @@ import Image1 from "../assets/DSC_0208 (2).jpg"
 function Home() {
   return <div className="w-full h-max md:mt-20 sm:mt-14 mt-20 sm:flex sm:justify-center">
     <div className="w-full flex justify-center sm:flex-none sm:w-max sm:mx-10">
-        <img src={Image1} alt="" className= "h-36 w-36 sm:h-52 sm:w-52 md:h-72 md:w-72 lg:h-96 lg:w-96 rounded-full"/>
+        <img src={Image1} alt="" className= "h-56 w-56 sm:h-52 sm:w-52 md:h-72 md:w-72 lg:h-96 lg:w-96 rounded-full"/>
     </div>
     <div className="content-center sm:mx-10">
         <div className="text-zinc-600 tracking-wider font-semibold text-base flex justify-center mt-5 sm:mt-0 lg:text-2xl">Hello, I'm</div>
