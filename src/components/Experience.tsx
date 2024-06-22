@@ -44,7 +44,7 @@ function Experience() {
                 <div className="flex my-5 justify-self-start">
                   <img src={Image5} alt="" className="h-8 w-8"/>
                   <div className="mx-5">
-                    <div className="font-semibold text-xl">Javascript</div>
+                    <div className="font-semibold text-xl">Typescript</div>
                     <div className="text-zinc-500">Experienced</div>
                   </div>
                 </div>
@@ -132,7 +132,7 @@ function Experience() {
                 <div className="flex my-5 justify-self-start">
                   <img src={Image5} alt="" className="h-8 w-8"/>
                   <div className="mx-5">
-                    <div className="font-semibold text-xl">Typescript</div>
+                    <div className="font-semibold text-xl">Cloudflare</div>
                     <div className="text-zinc-500">Intermediate</div>
                   </div>
                 </div>
