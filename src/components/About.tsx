@@ -1,6 +1,7 @@
 import Image2 from "../assets/IMG_20240621_183707.jpg"
 import Image3 from "../assets/image2.png"
 import Image4 from "../assets/image.png"
+import Image9 from "../assets/arrow.png"
 function About() {
   return <div id="About" className="border-2 border-transparent my-16 sm:mt-32 mt-52">
     <div className="text-zinc-600 text-base flex justify-center mt-5 sm:text-sm">Get to know more</div>
@@ -28,6 +29,9 @@ function About() {
             </div>
             <div className="p-5 text-zinc-700">I am a passionate web developer with a keen interest in creating intuitive user experiences. With expertise in React and Javascript/Typescript, I love solving complex problems and continuously learning new technologies. I have a good expertise in backend applications. In my free time, I enjoy watching movies, reading, and writing.</div>
         </div>
+    </div>
+    <div className="flex justify-end mt-10 mr-7">
+        <a href="#Experience"><img src={Image9} alt="" className="h-10 w-10 hover:scale-110 duration-100"/></a>
     </div>
   </div>
 }

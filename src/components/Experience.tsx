@@ -1,4 +1,5 @@
 import Image5 from "../assets/checkmark.png"
+import Image9 from "../assets/arrow.png"
 function Experience() {
   return <div id="Experience" className="border border-transparent my-16 sm:mt-32 mt-40">
         <div className="text-zinc-600 text-base flex justify-center mt-5 sm:text-sm">Explore my</div>
@@ -149,6 +150,9 @@ function Experience() {
             </div>
           </div>
         </div>
+    <div className="flex justify-end mt-10 mr-7">
+      <a href="#Projects"><img src={Image9} alt="" className="h-10 w-10 hover:scale-110 duration-100"/></a>
+    </div>
   </div>
 }
 
