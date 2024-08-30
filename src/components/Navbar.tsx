@@ -19,5 +19,5 @@ function Navbar({clicked, setClicked} : MenuProps) {
   </div> 
 
 }
-
+ 
 export default Navbar

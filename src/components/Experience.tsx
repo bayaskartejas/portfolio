@@ -58,21 +58,7 @@ function Experience() {
                   </div>
                 </div>
 
-                <div className="flex my-5 justify-self-start">
-                  <img src={Image5} alt="" className="h-8 w-8"/>
-                  <div className="mx-5">
-                    <div className="font-semibold text-xl">Material UI</div>
-                    <div className="text-zinc-500">Basic</div>
-                  </div>
-                </div>
 
-                <div className="flex my-5 justify-self-start">
-                  <img src={Image5} alt="" className="h-8 w-8"/>
-                  <div className="mx-5">
-                    <div className="font-semibold text-xl">Bootstrap</div>
-                    <div className="text-zinc-500">Basic</div>
-                  </div>
-                </div>
 
               </div>
             </div>
@@ -130,21 +116,6 @@ function Experience() {
                   </div>
                 </div>
 
-                <div className="flex my-5 justify-self-start">
-                  <img src={Image5} alt="" className="h-8 w-8"/>
-                  <div className="mx-5">
-                    <div className="font-semibold text-xl">Cloudflare</div>
-                    <div className="text-zinc-500">Intermediate</div>
-                  </div>
-                </div>
-
-                <div className="flex my-5 justify-self-start">
-                  <img src={Image5} alt="" className="h-8 w-8"/>
-                  <div className="mx-5">
-                    <div className="font-semibold text-xl">Docker</div>
-                    <div className="text-zinc-500">Basic</div>
-                  </div>
-                </div>
 
               </div>
             </div>
