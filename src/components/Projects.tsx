@@ -12,7 +12,7 @@ function Projects() {
             <img src={tipnex} alt="" className="rounded-3xl border-2 h-44 w-44 sm:h-auto sm:w-auto justify-self-center"/>
             <div className="mt-4 sm:text-2xl font-semibold tracking-wide justify-self-center text-xl">Tipnex</div>
             <div className="flex mt-4">
-                <a href="https://github.com/bayaskartejas/tipping-platform"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-zinc-400 rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Github</button></a>
+                <a href="https://github.com/bayaskartejas/tipping-platform" target="blank"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-zinc-400 rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Github</button></a>
                 <a href="https://tipnex.com/" target="blank"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-transparent rounded-3xl duration-100 hover:bg-black bg-zinc-800 text-white">Web link</button></a>
             </div>
         </div>
@@ -20,7 +20,7 @@ function Projects() {
             <img src={aptidote } alt="" className="rounded-3xl border-2 h-44 w-44 sm:h-auto sm:w-auto justify-self-center"/>
             <div className="mt-4 sm:text-2xl font-semibold tracking-wide justify-self-center text-xl">Aptidote</div>
             <div className="flex mt-4">
-                <a href="https://github.com/bayaskartejas/mock-test-app"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-zinc-400 rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Github</button></a>
+                <a href="https://github.com/bayaskartejas/mock-test-app" target="blank"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-zinc-400 rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Github</button></a>
                 <a href="https://aptidote.vercel.app/" target="blank"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-transparent rounded-3xl duration-100 hover:bg-black bg-zinc-800 text-white">Web link</button></a>
             </div>
         </div>
@@ -29,7 +29,7 @@ function Projects() {
             <img src={blogbook} alt="" className="rounded-3xl border-2 h-44 w-44 sm:h-auto sm:w-auto justify-self-center"/>
             <div className="mt-4 sm:text-2xl font-semibold tracking-wide justify-self-center text-xl">Blogbook</div>
             <div className="flex mt-4">
-                <a href="https://github.com/bayaskartejas/blogbook"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-zinc-400 rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Github</button></a>
+                <a href="https://github.com/bayaskartejas/blogbook" target="blank"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-zinc-400 rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Github</button></a>
                 <a href="https://blogbook.vercel.app/" target="blank"><button className="sm:h-12 sm:w-32 h-12 w-28 sm:mx-3 border-2 border-transparent rounded-3xl duration-100 hover:bg-black bg-zinc-800 text-white">Web link</button></a>
             </div>
         </div>
