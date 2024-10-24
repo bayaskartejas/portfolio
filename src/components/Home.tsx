@@ -9,7 +9,7 @@ function Home() {
         <div className=" text-black tracking-wider font-semibold text-3xl flex justify-center my-2 lg:text-5xl lg:my-5 hover:scale-105 duration-100">Tejas Bayaskar</div>
         <div className="text-zinc-600 tracking-wider font-semibold text-lg flex justify-center mt-2 lg:text-3xl">Full-stack Developer</div>
         <div className="w-full mt-5 lg:mt-11 flex justify-center h-11">
-            <a href="https://drive.google.com/file/d/1DjEe5vKC-dAQGWd3pltEMjBsRyt3c30W/view?usp=drive_link" target="blank"><button className="h-full w-32 mx-3 border-2 border-black rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Résumé</button></a>
+            <a href="https://drive.google.com/file/d/1501iCIoV7oVfkS3YQp8RSehD6-UZodQI/view?usp=drive_link" target="blank"><button className="h-full w-32 mx-3 border-2 border-black rounded-3xl duration-100 hover:bg-zinc-800 hover:text-white">Résumé</button></a>
             <button className="h-full w-32 mx-3 border-2 border-transparent rounded-3xl duration-100 hover:bg-black bg-zinc-800 text-white"><a href="#Contact">Contact</a></button>
         </div>
         <div className="flex justify-center sm:mt-7 mt-4 items-center">
